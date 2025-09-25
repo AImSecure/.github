@@ -21,10 +21,10 @@
 
 ## Repositories
 <!-- TODO: update -->
-1. [**Laboratory1**](https://github.com/AICybersec/Laboratory1) - Repository containing the code and resources for the Laboratory 1.
-2. [**Laboratory2**](https://github.com/AICybersec/Laboratory2) - Repository containing the code and resources for the Laboratory 2.
-3. [**Laboratory3**](https://github.com/AICybersec/Laboratory3) - Repository containing the code and resources for the Laboratory 3.
-3. [**Laboratory4**](https://github.com/AICybersec/Laboratory4) - Repository containing the code and resources for the Laboratory 4.
+1. [**Laboratory1**](https://github.com/AImSecure/Laboratory1) - Repository containing the code and resources for the Laboratory 1.
+2. [**Laboratory2**](https://github.com/AImSecure/Laboratory2) - Repository containing the code and resources for the Laboratory 2.
+3. [**Laboratory3**](https://github.com/AImSecure/Laboratory3) - Repository containing the code and resources for the Laboratory 3.
+3. [**Laboratory4**](https://github.com/AImSecure/Laboratory4) - Repository containing the code and resources for the Laboratory 4.
 <!-- *(Add or remove repositories as needed) *-->
 
 ## How to Contribute
